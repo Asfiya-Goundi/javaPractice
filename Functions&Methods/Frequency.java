@@ -30,7 +30,7 @@ public class Frequency {
        
           freq[k]++;
         }else{
-          
+        
         k++;
          arr1[k]=arr[i];
         
